@@ -18,7 +18,7 @@ describe('Demo Tests', function () {
 
        await $$(".Button")[2].click();
 
-       await browser.pause(4000);
+       await browser.pause(3000);
     
     })
 })
